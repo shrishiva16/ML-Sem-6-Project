@@ -8,4 +8,7 @@ The objective of this project is to develop a time series model that can accurat
 
 [Kaggle] https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
+
 [Report] https://docs.google.com/document/d/10zmHFgjw4WFIufJBU-QdjgpDgdi64_9kxaHqEq6iwDs/edit
+
+[Final Report] https://docs.google.com/document/d/1AnCDLOg1wu0k9LgBRR0QWEN2m0wQagdm-uPOGYd3czU/edit?usp=sharing
